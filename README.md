@@ -7,3 +7,7 @@ so easy
 	<artifactId>netty-all</artifactId>
 	<version>4.1.36.Final</version>
 </dependency>
+
+数据库
+roomid
+uid

@@ -3,7 +3,7 @@ java
 so easy
 
 <dependency>
-			<groupId>io.netty</groupId>
-			<artifactId>netty-all</artifactId>
-			<version>4.1.36.Final</version>
+	<groupId>io.netty</groupId>
+	<artifactId>netty-all</artifactId>
+	<version>4.1.36.Final</version>
 </dependency>

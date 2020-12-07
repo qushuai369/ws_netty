@@ -1,4 +1,4 @@
-package com.example.demo.Controller;
+package com.example.demo.netty;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;
